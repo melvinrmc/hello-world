@@ -1,4 +1,7 @@
 # hello-world
 Prueba de repositorio en github
 
-Esta es una prueba de edicion del archivo README.md en branch readme-edits.
+
+quitamos la linea anterior y agregamos esta.
+
+agregamos una linea mas, antes de hacer pull.
